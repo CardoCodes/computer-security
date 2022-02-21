@@ -1,0 +1,28 @@
+Dictionary
+Each line below contains username, salt and hashed password.
+james0_uLQ, FW90Rjijuh, 17a3250f4def6742fba8623162334726c2ae9cdd, microbiologies
+linda0_uLQ, dCFZWLVOSk, d2724710ffc9329b4f05199292281166452531fd, ravished
+sofia0_uLQ, DnOaXVNP8C, 98ddf527d7d2bafd3a85b70657e368f32efe1fae, compartmentalized
+santiago0_uLQ, 7KcFESvDF3, b7c8697970883bb9e1ed72aee4ccf964930c05f9, crispens
+isabella0_uLQ, cQUlqrAtx_, 853dd7d1f4778a19ffa1c38e67d74c47aac2347f, schmeered
+diego0_uLQ, IFq9qgkHbD, 0edd8396232e6f43f31d02b6562efa98bcae3bc9, bipolarity
+robert0_uLQ, LlSBos8xpk, 634d5d5374c24acc3de4f9221578b63df682ba60, fractions
+mary0_uLQ, M0RSCVn4cw, 917a3848ebd67dd7bc30f9945bb0d7f64344744b, appreciator
+patricia0_uLQ, U01C6j3t7p, 5c4b0526e271cacecba75b3ff6523a8d29edeee7, engraving
+daniela0_uLQ, lq96rSIB3k, 60773b590e0285a0260dc39166b4cbfe2975c72e, clarions
+
+Random
+Each line below contains username and hashed password.
+james0-uLQ, 1416a10f0eaee18c1bcccc6cc45fb43084ea6cae, Vn6ShHUH
+linda0-uLQ, bc7c70d48fea585386ead9f0339a2978cd66d34e, bc1qCwe
+sofia0-uLQ, bcceb71a16595821e798a5e68209ae803cd469bf, _BNs8X
+santiago0-uLQ, e51c415635667d8c78f030b1ee1a09499b6c8eef, k
+isabella0-uLQ, 4d8780c78b2f3c68c5ba465aeb0c901e24ee396f, GK4
+diego0-uLQ, ec2bb7be69fc8b4956e451c1eb69513ba970931a, qEeLo
+robert0-uLQ, 91486343f397e70f9cd770877daeab02e1d3ec59, g1BXr4BPFz
+mary0-uLQ, dbd3d665488548b8c41917c36f197a5ccaae0691, bR
+patricia0-uLQ, de945b087ee71bfe5159c8293a2e82709010c135, 0LcExLz99
+daniela0-uLQ, c375a69e1f3eb12156d78d4e033b34ea62956a18, RLRT
+
+This is the account to break with online attack.
+jonathan0_-uLQ, lk
